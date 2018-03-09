@@ -1,0 +1,14 @@
+.background    { background: lightpink;) ;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: rgb(128, 255, 0); }
+.wall          { background-image: url("https://www.sketchuptextureclub.com/public/texture_m/0082-quartzite-cobblestone-paving-texture-seamless.jpg");  }
+.floater       {background: lightgray; }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
